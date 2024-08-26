@@ -1,0 +1,106 @@
+/* Header config */
+header {
+    background-color: blue;
+    height: 100px;
+    width: auto;
+}
+
+/* Footer config */
+footer {
+    background-color: yellow;
+    height: 200px;
+    width: auto;
+}
+
+/* body config */
+body {
+    font-weight: bold;
+}
+
+/*table, th and td config */
+table,
+th,
+td {
+    border: 3px solid;
+    border-color: black;
+}
+
+/* specific table config */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+/*cell config */
+#A1 {
+    background-color: aqua;
+    color: blueviolet;
+}
+
+#A2 {
+    background-color: aquamarine;
+    color: crimson;
+}
+
+#A3 {
+    background-color: blue;
+    color: darkgreen;
+}
+
+#A4 {
+    background-color: blueviolet;
+    color: dimgray;
+}
+
+#B1 {
+    background-color: brown;
+}
+
+#B2 {
+    background-color: burlywood;
+}
+
+#B3 {
+    background-color: cadetblue;
+}
+
+#B4 {
+    background-color: chartreuse;
+}
+
+#C1 {
+    background-color: chocolate;
+    color: honeydew;
+}
+
+#C2 {
+    background-color: cornflowerblue;
+    color: yellow;
+}
+
+#C3 {
+    background-color: crimson;
+    color: violet;
+}
+
+#C4 {
+    background-color: cyan;
+    color: chartreuse;
+}
+
+#D1 {
+    background-color: darkgreen;
+}
+
+#D2 {
+    background-color: darkmagenta;
+}
+
+#D3 {
+    background-color: darksalmon;
+}
+
+#D4 {
+    background-color: gold;
+}
